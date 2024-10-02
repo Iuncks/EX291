@@ -10,4 +10,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>com.mycompany.ex25.EX25</exec.mainClass>
     </properties>
+    <name>EX291</name>
 </project>
